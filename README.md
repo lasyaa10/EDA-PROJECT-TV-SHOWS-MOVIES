@@ -1,3 +1,4 @@
+#EDA-PROJECT-TV-SHOWS-MOVIES
 📊 EDA Project: TV Shows Analysis 🧾 Overview This project performs Exploratory Data Analysis (EDA) on a dataset of TV shows sourced from streaming platforms. The goal is to extract insights about TV content, trends over time, content categories, and country-wise distribution.
 
 🧠 Objectives Analyze the distribution of TV shows by year, country, and genre
